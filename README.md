@@ -33,7 +33,7 @@ Please review the dataset's license and usage terms on Roboflow before redistrib
 
 The training-results plots are shown below.
 
-![YOLO26s training results](images/results.png)
+![YOLO26s training results](results.png)
 
 The provided plots indicate the following approximate final metrics:
 
